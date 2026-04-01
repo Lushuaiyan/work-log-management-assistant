@@ -1,0 +1,6 @@
+langchain
+langchain-deepseek
+langgraph
+chromadb          # 可选，向量数据库
+pydantic
+pandas
